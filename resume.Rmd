@@ -1,0 +1,28 @@
+---
+title: "Academic & Professional Experience"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Education
+
+* **Columbia University Mailman School of Public Health**[cite: 17]
+  * **Degree:** M.S. in Biostatistics
+  * **Expected Graduation:** May 2028
+
+* **The Chinese University of Hong Kong, Shenzhen**
+  * **Degree:** B.S. in Data Science
+  * **Graduation:** June 2026
+
+## Professional Experience
+
+* **Data Analytics & Modeling Intern**
+  * Conducted data preprocessing, statistical modeling, and dashboard construction using R, Python, and SQL.
+  * Designed evaluation pipelines and supported large-scale data insights extraction.
+
+## Skills
+
+* **Programming Languages:** R, Python, SQL, LaTeX
+* **Data Visualization & Tools:** ggplot2, plotly, flexdashboard, Git, GitHub

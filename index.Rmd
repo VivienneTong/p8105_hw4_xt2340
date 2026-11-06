@@ -1,0 +1,16 @@
+---
+title: "Welcome to My Website"
+output:
+  html_document:
+    toc: false
+---
+
+# Hello, I'm Xuening Tang!
+
+Welcome to my personal website. I am currently a Master of Science student in **Biostatistics** at the Columbia University Mailman School of Public Health. 
+
+This website serves as a portfolio for my coursework, data analysis projects, and interactive visualizations.
+
+### Quick Navigation
+* Explore my interactive data dashboard: [Instacart Dashboard](dashboard.html)[cite: 2]
+* Learn more about my academic and professional background: [Resume](resume.html)[cite: 2]

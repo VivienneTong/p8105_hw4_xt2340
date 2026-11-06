@@ -1,0 +1,22 @@
+---
+title: "Instacart Interactive Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+# Load necessary libraries for data manipulation and visualization
+library(flexdashboard)
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+
+# Load the Instacart dataset from p8105.datasets
+data("instacart")
+
+# Take a random sample of 10,000 rows to optimize dashboard performance
+set.seed(123)
+instacart_sample <- instacart %>% 
+  sample_n(10000)
